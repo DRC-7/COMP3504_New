@@ -1,1 +1,1 @@
-# prog_4_assignment
+# COMP 3504 Assignment 2
