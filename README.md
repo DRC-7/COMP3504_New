@@ -1,5 +1,5 @@
 # Mobile Crypto Currency App
-Assignment 2 - COMP3504: Programming IV: Software Engineering
+Assignment 2 - COMP3504: Programming IV: Software Engineering (Fall 2018)
 
 ## Task
 Create a mobile app that allows the user to:
