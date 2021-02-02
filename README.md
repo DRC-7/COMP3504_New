@@ -1,8 +1,6 @@
 # Mobile Crypto Currency App
 Assignment 2 - COMP3504: Programming IV: Software Engineering
 
-![Screenshot](https://github.com/DRC-7/COMP3504_ProgrammingIV_Assignment2/blob/main/ScreenCap.JPG)
-
 ## Task
 Create a mobile app that allows the user to:
 
@@ -30,3 +28,5 @@ This application was created using an Agile approach with a lot of user involvem
 ## Limitation
 There is no backend functionality, all of the data is hardcoded.
 
+## Screenshot
+![Screenshot](https://github.com/DRC-7/COMP3504_ProgrammingIV_Assignment2/blob/main/ScreenCap.JPG)
